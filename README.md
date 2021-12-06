@@ -1,4 +1,4 @@
-Hi, I’m @kathatherine. I'm interested in learning Python, as well as developing more automated testing skills. I'm looking to use this space to try out a few things and maybe build a portfolio of work.
+Hi, I’m @kathatherine, a senior tech writer at Anaconda. I will be working to refresh and update the Anaconda documentation for all products over the next 8-12 months.
 
-kes05d@gmail.com
+kkinnaman@anaconda.com
 
